@@ -4,7 +4,7 @@
     "lang": "pt-BR",
     "start_url": "index.html",
     "display": "standalone",
-    "theme_color": "#FFE4E1",
+    "theme_color": "#2F4F4F",
     "icons": [
         {
             "src": "android-icon-36x36.png",
